@@ -7,6 +7,9 @@
 A simple events finder app utilizing MyHelsinki Open API. Lists events for the upcoming week. 
 The app is available at https://eventsserver.herokuapp.com/
 
+The images used in the project are free from copyright.
+Pagination is based on the following example [https://codepen.io/PiotrBerebecki/pen/pEYPbY]
+
 ## Technologies
 * React, Material-UI
 * Node.js, Express, Axios
