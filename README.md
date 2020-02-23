@@ -9,6 +9,7 @@ The app is available at https://eventsserver.herokuapp.com/
 
 The images used in the project are free from copyright.
 Pagination is based on the following example [https://codepen.io/PiotrBerebecki/pen/pEYPbY]
+getFilteredEvents function (backend) is based on [https://github.com/huuber/event-finder/blob/master/server/index.js]
 
 ## Technologies
 * React, Material-UI
