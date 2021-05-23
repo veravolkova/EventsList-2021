@@ -7,6 +7,8 @@
 A simple events finder app utilizing MyHelsinki Open API. Lists events for the upcoming week. 
 The app is available at https://eventsserver.herokuapp.com/
 
+<img src="https://cutt.ly/Db54DGN" alt="events list" width="300" height="250">
+
 The images used in the project are free from copyright.
 Pagination is based on the following example [https://codepen.io/PiotrBerebecki/pen/pEYPbY]
 getFilteredEvents function (backend) is based on [https://github.com/huuber/event-finder/blob/master/server/index.js]
