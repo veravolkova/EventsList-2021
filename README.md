@@ -5,8 +5,6 @@
 
 ## General info
 A simple events finder app utilizing MyHelsinki Open API. Lists events for the upcoming week. 
-The app is available at https://eventsserver.herokuapp.com/
-
 
 <img src="https://drive.google.com/uc?export=view&id=1nbq26lnPyPNa05aYnCGls-Ez5WKTZgqI" alt="Events List Screenshot1" width="530" height="350">
 
